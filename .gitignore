@@ -1,3 +1,5 @@
 altv-server.exe
 *.code-workspace
 *.dll
+*.log
+*.bin
